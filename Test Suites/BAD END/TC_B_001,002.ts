@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TC_B_001,002</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>dbf61784-a506-4acf-be18-0650cdf0963e</testSuiteGuid>
+   <testCaseLink>
+      <guid>27a2302f-b800-4d8a-80fd-f26c3ceea74a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/BAD END/TC_B_001,002</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9bd06297-91f8-44bc-87cd-cd503ba35522</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/BAD END/TC_B_001,002/TC_B_P1_001,002</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8082008a-8dae-4eac-8b92-2695537c6a68</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/BAD END/TC_B_001,002/TC_B_P2_001,002</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>9bd06297-91f8-44bc-87cd-cd503ba35522</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>c5a63855-9b15-4e87-baf7-390fccde2650</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9bd06297-91f8-44bc-87cd-cd503ba35522</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>464c9d4c-2864-4d33-b553-4f25b5af8752</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8082008a-8dae-4eac-8b92-2695537c6a68</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Facility</value>
+         <variableId>0f622ec0-03d0-4fda-ae32-f04bdf67213e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8082008a-8dae-4eac-8b92-2695537c6a68</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Visit Date (Required)</value>
+         <variableId>191999c5-5f7d-493f-b21f-24468a989e4a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8082008a-8dae-4eac-8b92-2695537c6a68</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Comment</value>
+         <variableId>f17496d0-a6c6-4a64-bfc8-1d1d2fece2c4</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

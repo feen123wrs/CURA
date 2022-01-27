@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>BAD END CASE TC 001-002 (Page1 FAIL)</description>
+   <name>TC_B_001,002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efae685d-f1ed-46e4-83d4-1cefa3b0df76</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5a63855-9b15-4e87-baf7-390fccde2650</id>
+      <masked>false</masked>
+      <name>v_username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>464c9d4c-2864-4d33-b553-4f25b5af8752</id>
+      <masked>false</masked>
+      <name>v_password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0f622ec0-03d0-4fda-ae32-f04bdf67213e</id>
+      <masked>false</masked>
+      <name>v_facility</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>191999c5-5f7d-493f-b21f-24468a989e4a</id>
+      <masked>false</masked>
+      <name>v_date</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f17496d0-a6c6-4a64-bfc8-1d1d2fece2c4</id>
+      <masked>false</masked>
+      <name>v_comment</name>
+   </variable>
+</TestCaseEntity>
